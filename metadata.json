@@ -1,0 +1,6 @@
+{
+  "name": "LevelUp",
+  "description": "Gamified student productivity app to build habits, earn XP, and level up your life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
